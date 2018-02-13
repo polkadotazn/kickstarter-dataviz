@@ -12,7 +12,7 @@ Users will be able to:
 ![wireframe](http://i65.tinypic.com/2wg85yh.png)
 ### Architecture and Technologies
 * Vanilla JavaScript
-* Potentially D3
+* chart.js
 * Webpack
 ### Implementation Timeline
 #### **Day 1:**
